@@ -1,0 +1,6 @@
+owner=581659082520526848
+prefix=K3
+game=Tese
+stayinchannel=true
+songinstatus=false
+token=NjAxNjY4NjAxMTI0MDkzOTcy.XTFpkg.SqbR_4XTwh8DtCAp3prqTTUPHTw
